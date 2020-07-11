@@ -2,6 +2,7 @@
 baseURL = "https://vanpariyar.github.io/sahajanand-yuvaksabha/"
 title = "Twenty Twenty Hugo"
 theme = "twenty-twenty-hugo"
+publishDir="docs"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
